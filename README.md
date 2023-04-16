@@ -11,7 +11,7 @@ There are a lot of perks like having your name inside the plugin!
 
 [![](https://i.imgur.com/BFIald5.png)](https://www.patreon.com/catsblenderplugin)
 
-#### Download here: [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)
+#### Download here: [Cats Blender Plugin](https://github.com/PxINKY/cats-blender-plugin/archive/master.zip)
 
 ## Features
  - Optimizing model with one click!
